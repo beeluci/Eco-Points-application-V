@@ -1,0 +1,22 @@
+{
+  "name": "eco-points-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure API and database for the Eco Points app",
+  "main": "src/server.js",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "setup": "node scripts/gen-env.js",
+    "start": "node src/server.js",
+    "test": "node scripts/smoke.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "helmet": "^7.1.0",
+    "multer": "^2.0.0"
+  }
+}

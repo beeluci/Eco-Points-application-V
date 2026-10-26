@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1,
+  "category": "clean",
+  "name": "Collecting Trash",
+  "description": "Pick up litter and dispose of it properly.",
+  "points": 25
+ },
+ {
+  "id": 2,
+  "category": "tree",
+  "name": "Plant a Tree",
+  "description": "Plant a sapling on campus or at home and tag it.",
+  "points": 50
+ },
+ {
+  "id": 3,
+  "category": "recycle",
+  "name": "Recycle Plastic",
+  "description": "Sort and hand over plastic waste for recycling.",
+  "points": 25
+ },
+ {
+  "id": 4,
+  "category": "clean",
+  "name": "Clean Campus/Surroundings",
+  "description": "Join or lead a clean-up drive nearby.",
+  "points": 35
+ },
+ {
+  "id": 5,
+  "category": "plastic",
+  "name": "Use Cloth/Jute Bag",
+  "description": "Carry a cloth or jute bag for a week.",
+  "points": 10
+ },
+ {
+  "id": 6,
+  "category": "water",
+  "name": "Save Water",
+  "description": "Fix a leak or cut water waste and show how.",
+  "points": 15
+ },
+ {
+  "id": 7,
+  "category": "other",
+  "name": "Use Bicycle/Public Transport",
+  "description": "Commute without a private vehicle.",
+  "points": 20
+ },
+ {
+  "id": 8,
+  "category": "tree",
+  "name": "Protect Existing Trees",
+  "description": "Water, fence or guard trees around you.",
+  "points": 30
+ },
+ {
+  "id": 9,
+  "category": "other",
+  "name": "Spread Environmental Awareness",
+  "description": "Run a talk, poster or social media campaign.",
+  "points": 40
+ },
+ {
+  "id": 10,
+  "category": "other",
+  "name": "Eco-Friendly College Event",
+  "description": "Take part in an eco event at your college.",
+  "points": 30
+ }
+]
